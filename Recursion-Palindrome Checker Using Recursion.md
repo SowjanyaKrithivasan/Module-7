@@ -3,7 +3,6 @@
 ##  AIM:
 To write a Python program to display all the positive numbers in reverse order with a difference 2 from 'N'  using nested recursion
 
----
 
 ##  ALGORITHM:
 
@@ -13,7 +12,6 @@ To write a Python program to display all the positive numbers in reverse order w
 4. Otherwise, print the current value of n without moving to the next line.
 5. Call fun(n - 2) and pass its result again into fun().
 6. Output the final returned value from the nested recursive calls.
----
 
 ##  PROGRAM:
 ~~~
